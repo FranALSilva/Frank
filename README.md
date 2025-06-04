@@ -49,14 +49,20 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+# Frank
 
-# FrankALSilva
+Este é um projeto hospedado com **GitHub Pages**.
 
-# FrankALSilva
+🔗 **Acesse o site publicado:** [https://franalsilva.github.io/Frank/](https://franalsilva.github.io/Frank/)
 
-# FrankALSilva
+## Tecnologias utilizadas
+- HTML
+- CSS
+- JavaScript
 
-# direcionar
+## Como rodar localmente
 
-# FrankAngelo
+Clone o repositório:
+```bash
+git clone https://github.com/FranALSilva/Frank.git
+
